@@ -1,7 +1,1 @@
-file2
-test2
-<<<<<<< HEAD
-abc
-=======
-test3
->>>>>>> 04206228f17498f7b9733e4600f69c14982ba0f5
+file test2
